@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de SuperHéroes</string>
+    <string name="tv_bio">Biografía</string>
+    <string name="tv_power">Poder</string>
+    <string name="tv_save">Guardar</string>
+    <string name="hint_name">Nombre…</string>
+    <string name="hint_alter_ego">Alter Ego…</string>
+    <string name="hint_bio">Biografía…</string>
+    <string name="tv_alter_ego">Alter Ego</string>
+    <string name="no_complete_fields">Por favor, ingrese todos los campos.</string>
+    <string name="permission">Por favor, conceda permiso para poder utilizar la camara.</string>
+</resources>

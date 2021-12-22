@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Register of Superheros</string>
+    <string name="tv_bio">Biography</string>
+    <string name="tv_power">Power</string>
+    <string name="tv_save">Save</string>
+    <string name="hint_name">Name…</string>
+    <string name="hint_alter_ego">Alter Ego…</string>
+    <string name="hint_bio">Bio…</string>
+    <string name="tv_alter_ego">Alter Ego</string>
+    <string name="no_complete_fields">Please, complete all fields.</string>
+    <string name="permission">Please, active the permission of the camera.</string>
+</resources>
